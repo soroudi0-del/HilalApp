@@ -145,16 +145,16 @@ export default function SettingsScreen() {
 
         {/* امتیازدهی */}
         
-      <View style={st.rateBox}>
-  <Text style={st.rateTitle}>{t('rateApp')}</Text>
-  <Text style={st.rateSub}>{t('rateSub')}</Text>
+     <View style={st.rateBox}>
+          <Text style={st.rateTitle}>{t('rateApp')}</Text>
+          <Text style={st.rateSub}>{t('rateSub')}</Text>
 
-  <TouchableOpacity style={st.rateBtn} onPress={function () {
-    Linking.openURL('https://play.google.com/store/apps/details?id=com.soroudisoft.hilal').catch(function () { });
-  }}>
-    <Text style={st.rateBtnT}>{t('rateGoogle')}</Text>
-  </TouchableOpacity>
-</View>
+          <TouchableOpacity style={st.rateBtn2} onPress={function () {
+            Linking.openURL('https://cafebazaar.ir/app/com.soroudisoft.hilal').catch(function () { });
+          }}>
+            <Text style={st.rateBtn2T}>{t('rateBazaar')}</Text>
+          </TouchableOpacity>
+        </View>
 
         {/* ارتباط */}
         <View style={st.contactBox}>
