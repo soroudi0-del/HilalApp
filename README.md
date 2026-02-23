@@ -12,7 +12,7 @@
 
 **The most comprehensive crescent moon (Hilal) visibility prediction application for the global Muslim community.**
 
-[Download on Google Play](https://play.google.com/store/apps/details?id=com.soroudisoft.hilal) · [Report Bug](mailto:info.gamevar.ir@gmail.com) · [Request Feature](mailto:info.gamevar.ir@gmail.com)
+[Download on Github](https://github.com/soroudi0-del/HilalApp/releases) · [Report Bug](mailto:info.gamevar.ir@gmail.com) · [Request Feature](mailto:info.gamevar.ir@gmail.com)
 
 </div>
 
