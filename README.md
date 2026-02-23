@@ -4,7 +4,7 @@
 
 ### Crescent Moon Visibility Prediction App
 
-[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://play.google.com/store/apps/details?id=com.soroudisoft.hilal)
+[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/soroudi0-del/HilalApp/releases)
 [![React Native](https://img.shields.io/badge/React%20Native-0.81-blue.svg)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-54-black.svg)](https://expo.dev/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
